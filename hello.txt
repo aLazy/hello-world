@@ -1,2 +1,6 @@
 my name is lzy
+<<<<<<< HEAD
 i am from a branch lzy
+=======
+i add a world
+>>>>>>> master

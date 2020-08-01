@@ -1,6 +1,9 @@
 my name is lzy
 <<<<<<< HEAD
+<<<<<<< HEAD
 i am from a branch lzy
 =======
 i add a world
 >>>>>>> master
+=======
+>>>>>>> parent of c3aa7b8... "i add a sentence"
